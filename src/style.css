@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* Off-white background color for the body */
+body {
+    background-color: #f8f9fa; /* Off-white */
+}
+
+/* Custom styles for the table container */
+.table-container {
+    background-color: #ffffff; /* Bright white */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
